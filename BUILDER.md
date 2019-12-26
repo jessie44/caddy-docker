@@ -1,6 +1,6 @@
 # builder
 
-Docker image for building Caddy binaries.
+Docker image for building Caddy binaries. With Unraid Template
 
 ## Usage
 
